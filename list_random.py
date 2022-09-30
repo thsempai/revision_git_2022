@@ -1,6 +1,6 @@
 from random import randint
 
 
-elements = ["terre", "air", "eau", "feu", "fer", "vide", "lumière"]
+elements = ["earth", "air", "water", "fire", "iron", "void", "light"]
 i = randint(0, len(elements) - 1)
 print(elements[i])
